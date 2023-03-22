@@ -81,7 +81,7 @@ export default function Home() {
 					 mb-6'>
 							Bakgrunnen for opprettelsen av jobbjakt.no var etterspørsel fra mange arbeidssøkere om en side som på en ryddig måte kunne vise dem vei i «internettjungelen».
 						</p>
-						<Link href={'sok-jobb/soknad/'}>
+						<Link href={'sok-jobb/soknad'}>
 							<button className='xxxs:max-md:hidden md:visible md:bg-jj-color-green py-2 md:px-6 md:text-white rounded-full'>Er du på jobbjakt?</button>
 						</Link>
 					</div>
@@ -169,7 +169,7 @@ export default function Home() {
 						<p className='SECTION-2-TEXT xxs:max-md:hidden max-w-lg'>
 							Tiden er inne for intervjuet og pulsen øker. Hvordan forbereder du deg til intervjuet? Hva kommer du til å få spørsmål om og hvordan kan du gjøre det beste inntrykket?
 						</p>
-						<Link href={'sok-jobb/cv/'}>
+						<Link href={'sok-jobb/cv'}>
 							<button className='xxs:max-sm:hidden md:visible md:w-fit md:py-2 md:px-5 md:bg-jj-color-green py-2 px-6 md:text-white rounded-full '>Les mer</button>
 						</Link>
 					</div>
@@ -200,7 +200,7 @@ export default function Home() {
 							folk som ønsket å skifte jobb, nyutdannede og folk som for tiden var arbeidsledig. Det er også kjent at langt under 50% av stilingene som besettes per i dag er utlyst på vanlig måte i
 							dagspressen. Dette gjør at en veiviser til proaktiv bruk av internett er nødvendig å ha.
 						</p>
-						<Link href={'sok-jobb/soknad/'}>
+						<Link href={'sok-jobb/soknad'}>
 							<button className=' md:visible md:bg-jj-color-green py-2 md:px-6 md:text-white rounded-full w-fit'>Er du på jobbjakt?</button>
 						</Link>
 					</div>

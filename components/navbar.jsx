@@ -110,7 +110,7 @@ const NavBar = () => {
 							</li>
 
 							<div className={`${navbar ? 'hidden ' : 'inline-block'}`}>
-								<div class='group inline-block relative'>
+								<div className='group inline-block relative'>
 									<button class=' py-2 rounded inline-flex items-center text-white'>
 										<span className='mr-1'>Søk jobb</span>
 										<svg
