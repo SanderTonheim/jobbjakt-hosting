@@ -10,6 +10,7 @@ import Mobile from '../../images/kontakt/mobile.svg'
 import Questions from './questions'
 
 export default function Intervju() {
+	console.log(Questions)
 	return (
 		<>
 			<div className='lg:max-w-7xl lg:mb-20'>
@@ -84,11 +85,11 @@ export default function Intervju() {
 			<section className=''>
 				<div className='py-4 my-6 bg-jj-color-green '>
 					<h2 className='mb-2 text-white'>De 50 vanligste spørsmålene du blir stilt</h2>
-					<ol className='text-white '>
-						{Questions[0].questions.map((Questions) => (
-							<li>{Questions}</li>
+					{/* <ol className='text-white '>
+						{Questions[0].question.map((Questions) => (
+							<li>{Questions.question}</li>
 						))}
-					</ol>
+					</ol> */}
 				</div>
 			</section>
 			<section className='mx-auto'>
