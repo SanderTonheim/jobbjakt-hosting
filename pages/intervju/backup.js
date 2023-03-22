@@ -85,7 +85,7 @@ export default function Intervju() {
 				<div className='py-4 my-6 bg-jj-color-green '>
 					<h2 className='mb-2 text-white'>De 50 vanligste spørsmålene du blir stilt</h2>
 					<ol className='text-white '>
-						{Questions[0].map((Questions) => (
+						{Questions[0].questions.map((Questions) => (
 							<li>{Questions}</li>
 						))}
 					</ol>
