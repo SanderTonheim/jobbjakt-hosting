@@ -30,21 +30,6 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/finn-jobb": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/finn-jobb.js"
-    ],
-    "/intervju": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/intervju.js"
-    ],
-    "/kontakt-oss": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/kontakt-oss.js"
-    ],
     "/sok-jobb/cv": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",

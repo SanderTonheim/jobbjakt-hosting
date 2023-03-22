@@ -4,8 +4,5 @@
   "/_document": "pages/_document.js",
   "/": "pages/index.js",
   "/sok-jobb/soknad": "pages/sok-jobb/soknad.js",
-  "/sok-jobb/cv": "pages/sok-jobb/cv.js",
-  "/finn-jobb": "pages/finn-jobb.js",
-  "/intervju": "pages/intervju.js",
-  "/kontakt-oss": "pages/kontakt-oss.js"
+  "/sok-jobb/cv": "pages/sok-jobb/cv.js"
 }
