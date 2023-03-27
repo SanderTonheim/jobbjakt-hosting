@@ -30,15 +30,15 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
+    "/finn-jobb": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/finn-jobb.js"
+    ],
     "/sok-jobb/cv": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/sok-jobb/cv.js"
-    ],
-    "/sok-jobb/soknad": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/sok-jobb/soknad.js"
     ]
   },
   "ampFirstPages": []
